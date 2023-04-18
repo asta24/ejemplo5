@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ejemplo 5</string>
+    <string name="txt_PrimerNumero_String">Ingresa el primer valor</string>
+    <string name="txt_SegundoNumero_String">Ingresa el segundo valor</string>
+    <string name="rb1_String">Multiplicar</string>
+    <string name="rb2_String">Dividir</string>
+    <string name="rb3_String">Sumar</string>
+    <string name="rb4_String">Restar</string>
+    <string name="Button_String">Calcular</string>
+    <string name="TextView_resultado_String"></string>
+</resources>
